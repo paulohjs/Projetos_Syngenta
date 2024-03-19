@@ -1,0 +1,13 @@
+
+*.json
+
+*.xlsx
+
+*.csv
+
+*.sdb
+
+.vscode
+
+utilities/profile/Paulo/
+
